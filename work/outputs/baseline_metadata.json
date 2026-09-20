@@ -1,0 +1,15 @@
+{
+  "rows": 30000,
+  "base_declining_rate": 0.5420666666666667,
+  "top_score": 0.9411888493764173,
+  "median_score": 0.4428606438441044,
+  "precision_at_10": 0.2,
+  "precision_at_20": 0.35,
+  "precision_at_50": 0.34,
+  "score_weights": {
+    "visibility_score": 0.4,
+    "freshness_risk_score": 0.3,
+    "position_opp_score": 0.25,
+    "depth_gap_score": 0.05
+  }
+}
